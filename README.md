@@ -1,2 +1,1 @@
-# toDoList-react-project
-Created with CodeSandbox
+## Just another todo App!
